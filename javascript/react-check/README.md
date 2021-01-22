@@ -10,7 +10,7 @@ The sample project mimics the structure of the 1904labs react technical challeng
     - Expected output should print `hello world`
     - From a command line, `npm start`
   - Can run unit tests
-    - Expected output should be one failing test with message `Error: Expected true to be false.`
+    - Expected output should be all tests passing (1 test).
     - From a command line, `npm test`
 
 If you can do these, then you should be good to go for 1904labs technical challenge!
