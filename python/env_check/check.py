@@ -1,0 +1,10 @@
+def stub_function(message):
+    return 'implement me'
+
+
+def main():
+    print("Hello from main")
+
+
+if __name__ == '__main__': 
+    main() 
