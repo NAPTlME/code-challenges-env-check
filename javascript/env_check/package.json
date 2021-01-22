@@ -4,7 +4,7 @@
   "description": "Coding Challenge Environment Check",
   "main": "check.js",
   "scripts": {
-    "check": "node check.js",
+    "start": "node check.js",
     "test": "jasmine"
   },
   "author": "1904labs",
