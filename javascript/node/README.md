@@ -10,7 +10,7 @@ The sample project mimics the structure of the 1904labs javascript technical cha
     - Expected output should print `hello world`
     - From a command line, `npm start`
   - Can run unit tests
-    - Expected output should be one passing test (`1 spec, 0 failures)
+    - Expected output should be one passing test (`1 spec, 0 failures`)
     - From a command line, `npm test`
 
 If you can do these, then you should be good to go for 1904labs technical challenge!
