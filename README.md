@@ -7,14 +7,14 @@ In theory, if you can run these projects fine on your machine, you should be fin
 ## Steps to ensure your environment is ready for the technical challenge
 1) Clone/Download this repository
 1) Choose the language you are planning to complete the challenge and open in your preferred IDE
-1) Follow the instructions in the individual README and make sure you can successfully run all commands
+1) Follow the instructions in the individual README and make sure you can successfully accomplish all steps
   1) If you cannot run all commands indicated and see the expected output, please check the versions below and make sure your environment is setup correctly.
-  1) If you believe there is an issue with any test project here, please reach out to your recruiter to be connected to someone who help.
+  1) If you believe there is an issue with any test project here, please reach out to your recruiter.
 
 ### List of Programming Languages
 
 | Programming Language | Version  |
 |----------------------|----------|
-| Node.js              | Latest   |
+| Node.js              | 14+      |
 | Python               | 3+       |
 

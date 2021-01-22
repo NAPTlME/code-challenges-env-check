@@ -1,0 +1,15 @@
+{
+  "name": "javascript-env-check",
+  "version": "1.0.0",
+  "description": "Coding Challenge Environment Check",
+  "main": "check.js",
+  "scripts": {
+    "check": "node check.js",
+    "test": "jasmine"
+  },
+  "author": "1904labs",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
