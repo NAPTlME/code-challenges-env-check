@@ -1,7 +1,7 @@
 import unittest
 
 
-class TestMorse(unittest.TestCase):
+class TestCheck(unittest.TestCase):
 
     def test_stub_function(self):
         self.assertEqual("expected", "actual")
